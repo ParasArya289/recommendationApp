@@ -1,0 +1,19 @@
+.list-name {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid #d1d5db;
+  width: 90%;
+  margin: 1rem 0rem;
+  border-radius: 0.5rem;
+}
+.list-rating {
+  display: block;
+}
+
+.btn {
+  cursor: pointer;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  margin: 1rem 0.5rem;
+}
